@@ -10,9 +10,9 @@ Source repository [MCLangCN](https://github.com/ff98sha/mclangcn) is made by [@f
 
 |Contents（内容）|支持状态 Support Status|
 |---------------|---------------------|
-| Education Edition（教育版）| Yes（支持）
+| Education Edition（教育版）| Yes（支持）|
 |VR|Yes（支持）|
-|Beta And Preview（Beta版和Preview版）|Yes（支持）        
+|Beta And Preview（Beta版和Preview版）|Yes（支持）        |
 
 
 **Note: Don't make confusion with [this](https://github.com/Spectrollay/mclang_cn).**<br>
