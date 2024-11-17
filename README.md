@@ -15,8 +15,8 @@ Source repository [MCLangCN](https://github.com/ff98sha/mclangcn) is made by [@f
 |Beta And Preview（Beta版和Preview版）|Yes（支持）|      
 |Dev Version（开发者版本）|Not As Planned（不在计划内）|
 
-Because Dev Version has many hardcoded texts that written in the file, which make this untranslatable, sorry :(<br>
-开发者版本存在过多硬编码在文件内的文本，这些无法通过语言文件进行修正，抱歉。:(
+Because Dev Version has many hardcoded texts that written in the file, which make this untranslatable by language file, sorry :(<br>
+由于开发者版本存在过多硬编码在文件内的文本，这些文本是无法通过语言文件进行完全修正，因此不在计划内，请见谅 :(
 
 
 
