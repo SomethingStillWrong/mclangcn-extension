@@ -9,4 +9,4 @@ Source repository [MCLangCN](https://github.com/ff98sha/mclangcn) is made by [@f
 原[MCLangCN](https://github.com/ff98sha/mclangcn)由[@ff98sha](https://github.com/ff98sha)制作，由[@Jingji132](https://github.com/jingji132)等人提供支持
 
 **Note: Don't make confusion with [this](https://github.com/Spectrollay/mclang_cn)**<br>
-**注: 请勿与[此存储库](https://github.com/Spectrollay/mclang_cn)搞混**
+**注：请勿与[此存储库](https://github.com/Spectrollay/mclang_cn)搞混**
