@@ -1,3 +1,4 @@
+#MCLangCN Extension
 Optimized Chinese translations for Minecraft: Bedrock Edition.<br>
 适用于Minecraft基岩版的简体中文译名修正资源包。
 
