@@ -3,7 +3,7 @@
 Optimized Chinese translations for Minecraft: Bedrock Edition.<br>
 适用于Minecraft基岩版的简体中文译名修正资源包。
 
-MCLangCN Extension is a extension of MCLangCN, which add some translations that not exists in MCLangCN.<br>
+MCLangCN Extension is a extension of MCLangCN, which adds some translations that not exists in MCLangCN.<br>
 MCLangCN（Minecraft基岩版简体中文译名修正资源包）的拓展，加入了原MCLangCN没有修正的文本。
 
 Below Will List some translations that not exists in MCLangCN.<br>
